@@ -1,11 +1,22 @@
 # EXELIO Landing Page
 
-Static English landing page draft for EXELIO.
+Static English landing page for EXELIO.
 
 `The Cafe Where Only Monsters Come as Customers` is treated as external story
 content: a standalone spin-off / post-Early-Access-version short fiction series
-set in the EXELIO world. The page title, primary subject, and Steam CTA remain
-centered on EXELIO.
+set in the EXELIO world. The page title, first-viewport subject, and Steam CTA
+remain centered on EXELIO.
+
+## Structure
+
+- Full-bleed EXELIO hero using the temporary muted loop video
+- Movie section with the current EXELIO teaser embed
+- Story section connecting the game world and side story
+- Gameplay placeholder slots for screenshots / clips
+- Character section using temporary crops from canonical design sheets
+- Monster Cafe section with standalone serial positioning
+- Episode cards with pending outbound links
+- Steam Early Access platform CTA
 
 ## Files
 
@@ -14,13 +25,21 @@ centered on EXELIO.
 - `script.js`
 - `assets/hero-monster-cafe.png`
 - `assets/og-monster-cafe.png`
+- `assets/exelio-logo-white.svg`
+- `assets/exelio-logo-master.svg`
+- `assets/exelio-title-key.png`
+- `assets/hero-loop-muted.mp4`
+- `assets/hero-loop-poster.jpg`
+- `assets/characters/`
 
 ## Pending Inputs
 
-- X profile URL
 - Episode titles
 - Episode URLs
 - Episode publication dates
+- Final hosted top-loop video URL, if the production file becomes too large for Git
+- Final gameplay screenshots / short clips for the gameplay section
+- Final promotional character portraits, replacing the current design-sheet crops
 - Final replacement copy, if the placeholder text should be revised
 
 ## Local Preview

@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 902 82" role="img" aria-labelledby="title desc">
+  <title id="title">EXELIO official logo master</title>
+  <desc id="desc">Single-color vector EXELIO logo built from geometric paths and rectangles.</desc>
+  <g id="exelio-logo" fill="#fff">
+    <g id="letter-e-left">
+      <rect x="1" y="3" width="43" height="8"/>
+      <rect x="1" y="37" width="43" height="8"/>
+      <rect x="1" y="71" width="43" height="8"/>
+    </g>
+    <g id="letter-x">
+      <path d="M163 3 H173 L234 79 H226 Z"/>
+      <path d="M225 3 H234 L173 79 H164 Z"/>
+    </g>
+    <g id="letter-e-center">
+      <rect x="354" y="3" width="43" height="8"/>
+      <rect x="354" y="37" width="43" height="8"/>
+      <rect x="354" y="71" width="43" height="8"/>
+    </g>
+    <g id="letter-l">
+      <rect x="517" y="3" width="9" height="76"/>
+      <rect x="517" y="71" width="46" height="8"/>
+    </g>
+    <rect id="letter-i" x="685" y="3" width="8" height="76"/>
+    <path id="letter-o" fill-rule="evenodd" d="M860 1 A40 39 0 1 1 860 79 A40 39 0 1 1 860 1 Z M860 9.5 A31.5 30.5 0 1 0 860 70.5 A31.5 30.5 0 1 0 860 9.5 Z"/>
+  </g>
+</svg>

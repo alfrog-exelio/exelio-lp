@@ -1,8 +1,15 @@
-document.querySelectorAll("[data-needs-url='x-profile']").forEach((link) => {
+document.querySelectorAll("[data-needs-url]").forEach((link) => {
   link.addEventListener("click", (event) => {
     event.preventDefault();
     link.blur();
   });
   link.setAttribute("aria-disabled", "true");
-  link.title = "X profile URL pending";
+
+  if (link.dataset.needsUrl === "x-profile") {
+    link.title = "X profile URL pending";
+  }
+
+  if (link.dataset.needsUrl === "episode") {
+    link.title = "Episode URL pending";
+  }
 });
